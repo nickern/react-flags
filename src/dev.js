@@ -13,7 +13,7 @@ const App = React.createClass({
           name="CA"
           format="png"
           pngSize={64}
-          shiny={true}
+          shiny
           alt="Canada Flag"
         />
       </div>

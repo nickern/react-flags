@@ -42,13 +42,18 @@
     "babel-loader": "^5.1.4",
     "eslint": "^0.23.0",
     "eslint-loader": "^0.14.0",
-    "eslint-plugin-react": "^2.5.0",
+    "eslint-plugin-react": "^2.7.1",
     "eslint-plugin-shadow-exception": "^1.1.1",
     "filter-loader": "^1.0.1",
     "json-loader": "^0.5.2",
     "json5-loader": "^0.6.0",
     "lodash": "^3.10.0",
     "webpack": "^1.9.10",
+    "webpack-dev-server": "^1.9.10",
     "world-countries": "^1.7.3"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0"
   }
 }
